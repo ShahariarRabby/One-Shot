@@ -1,6 +1,6 @@
 Overview
 ============
-This is a One-Shot Learning Handwritten Character Classifer written in Python using the SciPy library. This is the code for the One-Shot Learning episode of Fresh Machine Learning on [Youtube](https://youtu.be/FIjy3lV_KJU). The code trains against a few examples of handwritten characters and then tries to classify characters correctly. The error rate is around 38%. If you want to try a state-of-the-art, better-than-human, one-shot learning library that you can apply to all sorts of data, check out [this](https://github.com/MaxwellRebo/PyBPL) repo. 
+This is a One-Shot Learning Handwritten Character Classifer written in Python using the SciPy library. The code trains against a few examples of handwritten characters and then tries to classify characters correctly. The error rate is around 38%. If you want to try a state-of-the-art, better-than-human, one-shot learning library that you can apply to all sorts of data, check out [this](https://github.com/MaxwellRebo/PyBPL) repo. 
 
 Dependencies
 ============
@@ -23,3 +23,4 @@ python demo_classification.py
 Credits
 ===========
 Credit for this demo code goes to the authors of the original BPL paper, this was the baseline demo code they used to compare their novel (much better) Matlab results against. 
+### Watch the One-Shot Learning episode of Fresh Machine Learning on [Youtube](https://youtu.be/FIjy3lV_KJU) to know more.
